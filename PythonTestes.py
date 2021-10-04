@@ -49,5 +49,5 @@ def dado(num):
 
 
 #TOKEN DE CONEXAO
-robo.run('ODgxMzU5MDA2MTkzNTYxNjMw.YSrriQ.3linCfSh-ADB71tNsGjGrhRpC-8')
+robo.run('TOKEN')
 
